@@ -1,0 +1,14 @@
+name: SpinningDeath
+version: 1.0
+main: SpinningDeath\Main
+api: 5.0.0
+author: Darlexx
+
+commands:
+  spinningdeath:
+    description: "Usa SpinningDeath para activar y desactivar la entidad"
+    permission: spinningdeath.use
+
+permissions:
+  spinningdeath.use:
+    default: op
